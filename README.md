@@ -187,7 +187,7 @@ nate.helfrey@siriuscom.com
 
 Roy Shaver
 Technical Architect
-roy.shaver@sirisucom.com
+roy.shaver@siriuscom.com
 
 Versions
 --------
